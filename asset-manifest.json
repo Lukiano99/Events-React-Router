@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Events-React-Router/static/css/main.a2be0ce4.css",
+    "main.js": "/Events-React-Router/static/js/main.5b84d68f.js",
+    "index.html": "/Events-React-Router/index.html",
+    "main.a2be0ce4.css.map": "/Events-React-Router/static/css/main.a2be0ce4.css.map",
+    "main.5b84d68f.js.map": "/Events-React-Router/static/js/main.5b84d68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2be0ce4.css",
+    "static/js/main.5b84d68f.js"
+  ]
+}
